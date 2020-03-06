@@ -2,4 +2,5 @@
 <resources>
     <string name="done">done</string>
     <string name="preview_image_description">Preview Image</string>
+    <string name="retry">Retry</string>
 </resources>
